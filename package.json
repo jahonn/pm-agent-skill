@@ -1,6 +1,6 @@
 {
   "name": "@jahonn/pm-agent-skill",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AI-powered product management workflow agent. 4-agent PM lifecycle using JTBD, Opportunity Solution Tree, Amazon PRD, Design Sprint, Lean BML. Compatible with Claude Code, Codex, Trae, Cursor, Gemini CLI and 20+ AI tools (Agent Skills standard).",
   "keywords": [
     "agent-skills",
